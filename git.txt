@@ -1,0 +1,8 @@
+git add . => dùng để thêm tất cả sự thay đổi vào local
+git status => dùng để kiểm tra có sự thay đổi nào ko
+git commit -m '__thông điệp__' => dùng để đánh dấu lại sự thay đổi, đã làm được chức năng j
+git push origin master => đưa code lên server gitHub
+
+
+git pull origin master
+nếu báo lỗi j đó thì kêu bạn Nhân
